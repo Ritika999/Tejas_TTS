@@ -1,24 +1,3 @@
-/* var marks=[98,96,86,82,75];
-console.log(marks[0])
-
-function score_avg(){
-  var sum = marks[0] + marks[1] + marks[2] + marks[3] + marks[4]
-  var avg = sum/marks.length
-  console.log(avg)
-}
-
-function setup() {
-  createCanvas(400, 400);
-  
-}
-
-function draw() {
-  background(220);
-  score_avg()
-}
-
-
- */
 
 function getVoices(){
 
